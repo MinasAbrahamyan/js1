@@ -18,3 +18,8 @@ b= 'abcde';
 */
 const let a= 123;
 
+
+> typeof 1
+'number'
+> typeof "123"
+'string'
